@@ -1,6 +1,9 @@
 # ToDoList
 basic to-do list application using functions and data structures
+
 \\ mini project\\
+
+
 Project Overview:
 Objective: Develop a simple to-do list application using Python with an emphasis on 
 functions and data structures.
